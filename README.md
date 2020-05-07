@@ -8,5 +8,8 @@ Trabalho de AOS
 	//pem == pé metro
 	//ppe == polegada pé
 	//pep == pé polegada
-  
-  
+  	
+	//Resposta do rest: Seu metro 3.0 transformado a polegadas e: 118.1103
+
+obs.: ".settings" não foi reconhecido pelo git, mudei para "Settings" apenas. 
+Acrescentado um zip do projeto. 
